@@ -40,7 +40,7 @@ const questions = [
         question: 'Which power would you have?',
         answers: [
             { text: 'Flight', correct: false},
-            { text: 'Telekinesis', correct: true},
+            { text: 'Telekinesis', correct: false},
             { text: 'Invisibility', correct: false},
             { text: 'Telepathy', correct: true},
         ] 
