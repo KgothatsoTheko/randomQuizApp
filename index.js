@@ -37,12 +37,12 @@ const questions = [
         ] 
     },
     {
-        question: 'Which power would you have?',
+        question: 'Which power is most dangerous?',
         answers: [
-            { text: 'Flight', correct: false},
+            { text: 'Pryokinesis', correct: false},
             { text: 'Telekinesis', correct: false},
             { text: 'Invisibility', correct: false},
-            { text: 'Telepathy', correct: true},
+            { text: 'Mind Control', correct: true},
         ] 
     },
 ]
